@@ -16,6 +16,9 @@ Install following packages(if they are missing) before running the code...
 ```bash
 pip install pandas
 pip install numpy
+pip install random
+pip install string
+pip install datetime
 
 ```
 Download the Project zip file, extract and use Command prompt to navigate to project directory.
