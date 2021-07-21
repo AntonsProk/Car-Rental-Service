@@ -59,5 +59,5 @@ Request Example:
 1. Create a function to visually display available cars
 2. Introduce different authentication based on membership type
 3. Introduce "Deley" reset function with new month
-4. Add a function to introduce new cars to garage
+4. Add a function to add new cars to garage
 
