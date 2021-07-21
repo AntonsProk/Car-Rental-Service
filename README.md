@@ -35,7 +35,7 @@ Follow the instruction in the console.
 ```What do you want to do? Rent or Return?```
 Only 2 options are accepted, else the exception is triggered.
 
-Rent Path
+#### Rent Path
 1. Asks a name of member to check if he exists in the system
 - If person does not exist add him to the system and assign the desired Membership type 
 - If person is already in the system -> check if he already rents a car.
@@ -46,7 +46,7 @@ Rent Path
 6. Estimates the price and assigns the pledge(in case "regular" membership) 
 7. Provides information about car parking spot and randomly generated unlocking pass
 
-Return Path
+#### Return Path
 1. Asks the car ID that is wished to be returned (important to remember what was the car ID )
 2. Asks to confirm the name of the renter
 3. Asks to enter the exact time car was held by the member (Format HH:MM. e.g. 05:21)
